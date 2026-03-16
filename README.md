@@ -7,13 +7,13 @@ Many legged robots have taken insight from animals to run, jump, and climb. Very
 
 AquaClimber was designed to be able to swim, climb, and transition between the two states without changing hardware. I worked on designing a multimodal hand capable of traversing both environments. The feet have a conical area to create additive drag but also incclude arrays of microspines used in climbing maneuvers.
 
-![hands] (https://github.com/AshETQ/AquaClimber/blob/c76d6b7c37f0ba916c2ed140a080afb09afb6397/images/feet2_annotate.PNG)
+![hands](https://github.com/AshETQ/AquaClimber/blob/c76d6b7c37f0ba916c2ed140a080afb09afb6397/images/feet2_annotate.PNG)
 
 ## In Action!
 
 AquaClimber is the first platform capable of transitioning from open water freestyle surface swimming to a full vertical climb! See videos in this directory!
 
-![transac] (https://github.com/AshETQ/AquaClimber/blob/c76d6b7c37f0ba916c2ed140a080afb09afb6397/images/TransitionFig_V2a.png)
+![transac](https://github.com/AshETQ/AquaClimber/blob/c76d6b7c37f0ba916c2ed140a080afb09afb6397/images/TransitionFig_V2a.png)
 
 ## Want to see more?
 
